@@ -1,0 +1,7 @@
+26-05-2016
+	1- Use git repo <Solved empty folders issue>
+	2- Make all log file links have server ip address
+
+25-05-2016 
+	1- Auto trigger Jenkins job after test run <Added post-test.cmd script>
+	2- Add time duration argument to test cases

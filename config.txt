@@ -1,0 +1,16 @@
+;this is a comment 
+
+;NOTE: no=OFF=0=disable 
+;Note: yes=1=on=enable
+
+
+SCREEN_CAPTURE_ON_ERROR=1;
+SCREEN_CAPTURE_ON_PASS=0;
+CAPTURE_ONLY_PRIMARY_SCREEN=1
+
+;[test settings part]
+repeat_count=1
+mouse_jump=0
+similarity=99
+;Test server port
+test_server_port=1780
